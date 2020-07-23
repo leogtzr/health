@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="769eb2d0-446a-4042-be4d-701b0b91c74f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ebyavtFaqnwqJo5jL4mqhM90tx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="769eb2d0-446a-4042-be4d-701b0b91c74f" name="Default Changelist" comment="" />
+      <created>1594604653790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594604653790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="263" width="374" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1594606916797">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="771" y="263" width="374" height="576" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1594606916797" />
+    <state x="746" y="309" width="424" height="498" key="FileChooserDialogImpl" timestamp="1594762744687">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="746" y="309" width="424" height="498" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1594762744687" />
+    <state x="444" y="186" width="1031" height="744" key="SettingsEditor" timestamp="1594670995410">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="444" y="186" width="1031" height="744" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1594670995410" />
+    <state x="624" y="248" key="run.anything.popup" timestamp="1595476870404">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="248" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1595476870404" />
+    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1594605997192">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1594605997192" />
+  </component>
+</project>

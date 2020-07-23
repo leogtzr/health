@@ -1,0 +1,21 @@
+TYPE,SHORT NAME,HOST,INSTANCE,PORT,URL,CATEGORY,SECURE
+APP,XL00,localhost,EStore01,8080,monitoring/healthcheck,ATG,FALSE
+APP,XL00,localhost,EStore02,8081,monitoring/healthcheck,ATG,FALSE
+APP,XL00,localhost,EStore03,8082,monitoring/healthcheck,ATG,FALSE
+APP,XL01,localhost,EStore01,8083,monitoring/healthcheck,ATG,FALSE
+APP,XL01,localhost,EStore02,8084,monitoring/healthcheck,ATG,FALSE
+APP,XL01,localhost,EStore03,8085,monitoring/healthcheck,ATG,FALSE
+APP,XL02,localhost,EStore01,8086,monitoring/healthcheck,ATG,FALSE
+APP,XL02,localhost,EStore02,8087,monitoring/healthcheck,ATG,FALSE
+APP,XL02,localhost,EStore03,8088,monitoring/healthcheck,ATG,FALSE
+APP,XL03,localhost,EStore01,8089,monitoring/healthcheck,ATG,FALSE
+APP,XL03,localhost,EStore02,8090,monitoring/healthcheck,ATG,FALSE
+APP,XL03,localhost,EStore03,8091,monitoring/healthcheck,ATG,FALSE
+APP,XL04,localhost,EStore01,8092,monitoring/healthcheck,ATG,FALSE
+APP,XL04,localhost,EStore02,8093,monitoring/healthcheck,ATG,FALSE
+APP,XL04,localhost,EStore03,8094,monitoring/healthcheck,ATG,FALSE
+APP,XL05,localhost,EStore01,8095,monitoring/healthcheck,ATG,FALSE
+APP,XL05,localhost,EStore02,8096,monitoring/healthcheck,ATG,FALSE
+APP,XL05,localhost,EStore03,8097,monitoring/healthcheck,ATG,FALSE
+APP,XL06,localhost,EStore01,8098,monitoring/healthcheck,ATG,FALSE
+
