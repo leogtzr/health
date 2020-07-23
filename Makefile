@@ -22,3 +22,7 @@ cover:
 
 dev:
 	./"${BIN_FILE}" -config dev.env
+
+atg: 
+	./"${BIN_FILE}" -config atg.env
+
